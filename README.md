@@ -1,12 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=1000&color=04BAFF&vCenter=true&width=800&height=100&lines=Hello+there!+My+name+is+Vanic.)](https://git.io/typing-svg)
 
-
 # Graduate and Undergraduate School Projects
-| **Source** | **Class** | **Language** | **Description** |
+| **Source / Link** | **Class** | **Language** | **Description** |
 |---------------|-----------|--------------|-----------------|
 |        [Plane Flight Route Planner](https://github.com/Vqnic/Plane-Flight-Planner)       |      CSCI A360 - Software Engineering     |       Java       |  Manages a database of airplanes and airports while letting you plan out simulated flights based on real-world refueling requirements and distances.               |
 |        [Adversarial AI Robustness Webapp](https://github.com/Vqnic/Adversarial-Robustness-Evaluation-Webapp)       |      CSCI A600 - Survey of Information Technology      |      Python        |       Python webapp using Streamlit to help benchmark AI models against a suite of adversarial attacks. Input a computer vision model and specify a dataset and attacks.          |
 |        [Multithreaded Client-Server App](https://github.com/Vqnic/School-Project-Collection/tree/main/Multithreaded%20Client-Server%20App)       |   CSCI A610 - Advanced Programming Concepts        |      Java        | Demonstration of socket programming, multithreading and searching/sorting algorithms where multiple clients send datasets and commands to a server to process their data.                |
 |        [Shopping List React App](https://github.com/Vqnic/School-Project-Collection/tree/main/Shopping%20List%20React%20App)      |    CSCI A614 - Advanced Web Development        |       Javascript, HTML, CSS       |     Website created using React and GCP APIs that allows multiple users to sign in and manage shopping lists through a responsive UI.          |
+|        [Resume as a Website](https://starb.dev)      |    CSCI A614 - Advanced Web Development        |       Javascript, HTML, CSS       |     My resume, but as a website. Initially started off as a project for this web dev class, but I've been maintaining and adding to it since.          |
 |        [Tor Triage](https://github.com/rbohling/TorTriage)       |      CSCI A616 - Computer Networking     |       Python       |  Client-side Tor performance measurements and fault-domain diagnostics.               |
 |        [Fraud Detection ML Models](https://github.com/Vqnic/School-Project-Collection/tree/main/Fraud%20Detection%20ML%20Models)       |      CSCI A622 - Risk Assessment and Threat Analysis      |      Python        |       Exploration with various supervised learning algorithms (Logistic Regression, KNN, Random Forest, Support Vector Machine, Decision Tree Classifier) on a [Kaggle dataset](https://www.kaggle.com/datasets/rohit265/fraud-detection-dynamics-financial-transaction) to see which one best detects fraud.          |
+
+## Check out my website over at https://starb.dev/ :)
